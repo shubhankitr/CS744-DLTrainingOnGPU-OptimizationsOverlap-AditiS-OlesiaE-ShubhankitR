@@ -3,7 +3,6 @@
 
 Group - 01:
 
-Aditi Singh (singh273@wisc.edu) <br/>
-Olesia Elfimova (oelfimova@wisc.edu) <br/>
-Shubhankit Rathore (srathore2@wisc.edu)
+Aditi Singh, Olesia Elfimova, Shubhankit Rathore <br/>
+{singh273, oelfimova, srathore2} @wisc.edu
 
