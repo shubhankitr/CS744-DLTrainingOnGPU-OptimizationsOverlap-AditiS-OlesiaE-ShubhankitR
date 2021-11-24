@@ -1,5 +1,5 @@
 # CS744 Fall'21 Project 
-# Analysing Effect of Multiple Operations on a GPU for Deep Learning Training
+## Analysing Effect of Multiple Operations on a GPU for Deep Learning Training
 
 Group - 01:
 
