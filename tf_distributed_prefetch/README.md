@@ -1,5 +1,5 @@
 ### Environment Setup
-Ubuntu 20.04.3 LTS, 1 x NVIDIA Tesla K80, 150 GB SSD <br/>
+Ubuntu 20.04.3 LTS, 1 x NVIDIA Tesla K80, 150 GB SSD, 4 vCPU and 15 GB memory / 8 vCPU and 30 GB memory <br/>
 sudo apt-get install aptitude <br/>
 https://markjay4k.github.io/Install-Tensorflow/, https://www.youtube.com/watch?v=2SYh9XE00FA <br/>
 "sudo lshw -C display" shows if driver had been loaded for the card <br/>
